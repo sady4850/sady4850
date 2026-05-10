@@ -1,6 +1,6 @@
 ### Hi, I'm Dmitry 👋
 
-I build developer tools and self-hostable apps.
+Senior .NET Software Engineer | 13+ years building cross-platform SDKs, rendering systems & AI-powered products | C#, .NET Developer, AI Product Engineering, ASP.NET Core
 
 #### Projects
 

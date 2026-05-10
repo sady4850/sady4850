@@ -10,6 +10,8 @@
 ![AI](https://img.shields.io/badge/-AI%20Product-121212?style=flat-square&logo=openai&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrybarakhov/)
+
 > Building developer tools and self-hostable apps where AI is a first-class collaborator, not a bolt-on.
 
 ## Projects

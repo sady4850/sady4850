@@ -16,7 +16,6 @@
 
 ## Projects
 
-- 🤖 **[hookele](https://github.com/sady4850/hookele_coding_agent)** — Autonomous coding agent on the [Terminal-Bench 2.0 leaderboard](https://www.tbench.ai/leaderboard/terminal-bench/2.0) (61.6% ± 1.9, rank #44, GPT-5.1 Codex Mini). One model, one loop, skill-injected prompts.
 - 🎨 **[embraceboard](https://github.com/sady4850/embraceboard)** — Self-hosted Excalidraw fork with a built-in AI collaborator: native tools for flowcharts, mindmaps, kanban, snapshots, and RAG over your documents.
 - ✂️ **[openChpok](https://github.com/sady4850/openChpok)** — CLI proxy that compacts verbose tool output to cut LLM token usage on common dev commands. Fully local, single Go binary, zero runtime dependencies.
 - 🔍 **[ClientRAG](https://github.com/sady4850/ClientRAG)** — Client-side semantic search for PDFs. Local embeddings via Transformers.js, IndexedDB vector store, no backend — documents never leave the browser. [Live demo](https://sady4850.github.io/ClientRAG/).
